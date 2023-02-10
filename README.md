@@ -1,4 +1,4 @@
-# [Optimage]!
+# [Optimage]
 
 [Optimage] is an image compression web app that reduces image sizes through numerous formats.
 
