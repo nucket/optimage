@@ -355,7 +355,7 @@ export default class Intro extends Component<Props, State> {
             <SlideOnScroll>
               <div class={style.infoContent}>
                 <div class={style.infoTextWrapper}>
-                  <h2 class={style.infoTitle}>Small</h2>
+                  <h2 class={style.infoTitle}>Smally</h2>
                   <p class={style.infoCaption}>
                     Smaller images mean faster load times. Squoosh can reduce
                     file size and maintain high quality.
@@ -440,7 +440,7 @@ export default class Intro extends Component<Props, State> {
                   class={style.footerLink}
                   href="https://github.com/nucket/optimage/blob/dev/README.md#privacy"
                 >
-                  Privacy
+                  Privacity
                 </a>
                 <a
                   class={style.footerLinkWithLogo}
